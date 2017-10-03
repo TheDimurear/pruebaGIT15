@@ -1,3 +1,4 @@
 # pruebaGIT15
 
-Author: Diego Muñoz-Reja Armida
+Author: pa q quieres saber eso 
+### jaja saludos
